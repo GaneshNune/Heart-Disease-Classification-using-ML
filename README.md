@@ -1,7 +1,5 @@
 # Heart-disease-classification-using-ML
 
-# Heart Disease Classification using Machine Learning
-
 Welcome to the **Heart Disease Classification** project! This repository contains all the resources needed to understand, execute, and evaluate a machine learning model for classifying heart disease.
 
 ## 📂 Repository Contents
